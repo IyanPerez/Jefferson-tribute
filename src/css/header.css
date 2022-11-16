@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    flex-direction: column; 
+}
+#header-background{
+    width: 100%;
+}
+#nav-bar{
+    background-color: aqua;
+    position: sticky;
+}
+#nav-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.nav-button{
+    width: fit-content;
+}
+#nav-logo{
+    max-width: 40px;
+}
+#header-logo{
+    width: 200px;
+    position: absolute;
+}
