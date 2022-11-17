@@ -1,2 +1,5 @@
 @import url("./default-config.css");
-@import url("./gallery.css")
+@import url("./gallery-styles/gallery.css");
+@import url("./gallery-styles/hover-effects.css");
+@import url("./gallery-styles/contenedores.css");
+@import url("./gallery-styles/etiquetas.css");
