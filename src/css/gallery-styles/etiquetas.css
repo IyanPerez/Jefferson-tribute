@@ -1,0 +1,20 @@
+.row-1{
+    display: flex;
+    flex-direction: row;
+    gap:40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.row-2{
+    display: flex;
+    flex-direction: row;
+    gap:40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img-estilos {
+    border-radius: 10%;
+    border-style: groove;
+    width:270px;
+    height:270px;
+}

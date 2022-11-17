@@ -1,3 +1,12 @@
+@import url("./default-config.css");
+@import url("./gallery-styles/gallery.css");
+@import url("./gallery-styles/hover-effects.css");
+@import url("./gallery-styles/contenedores.css");
+@import url("./gallery-styles/etiquetas.css");
+@import url("./merch-styles/merch.css");
+@import url("./footer-styles/footer.css");
+@import url("./merch-styles/containers.css");
+@import url("./merch-styles/etiquetas.css");
 @import "/src/css/default-config.css";
 @import "/src/css/header.css";
 @import "/src/css/home/biography.css";

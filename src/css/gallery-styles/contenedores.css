@@ -1,0 +1,18 @@
+#contenedor-presentation{
+    
+    background-color: rgba(101, 87, 87, 0.5);
+    font-size: large;
+    color: white;
+    padding: 30px;
+    border-color: white;
+    border-style: groove;
+    margin: 0px 50px 0px 50px;
+}
+#contenedor-albums{
+    
+    display: flex;
+    gap:30px;
+    flex-direction: column;
+    align-items: center;
+    padding: 13px;
+}
