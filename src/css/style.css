@@ -1,3 +1,5 @@
 @import "/src/css/default-config.css";
 @import "/src/css/header.css";
-@import "/src/css/biography.css";
+@import "/src/css/home/biography.css";
+@import "/src/css/home/banner.css";
+@import "/src/css/text-container.css";

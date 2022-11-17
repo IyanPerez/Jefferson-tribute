@@ -1,0 +1,26 @@
+.banner-photo{
+    width: 906px;
+    border-radius: 20px;
+    margin: 1px;
+}
+.banner{
+    width: 80%;
+    position: static;
+    margin-top: 3%;
+}
+.banner .slider{
+    display: flex;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+#back-button{
+    padding-top: 1%;
+    width: 30px;
+    cursor: pointer;
+}
+#front-button{
+    padding-top: 1%;
+    float: right;
+    width: 30px;
+    cursor: pointer;
+}

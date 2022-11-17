@@ -1,0 +1,16 @@
+#biography{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    background-image: url("/img/hippie1.png");
+}
+#group-photo{
+    margin: 2%;
+    width: 444px;
+    height: 350px;
+    border-radius: 30px;
+    border-color: white;
+    border-style: groove;
+}
+
