@@ -1,0 +1,19 @@
+.box1, .box2{
+    border-style: groove;
+    border-color: rgb(255, 18, 156);
+    margin: 5px;
+    padding: 5px;
+}
+
+.tshirt-img {
+    width: 800px;
+    height: 300px;
+    border-radius: 10px;
+    border-style: groove;
+}
+.vinilos-img {
+    width: 800px;
+    height: 300px;
+    border-radius: 10px;
+    border-style: groove;
+}
