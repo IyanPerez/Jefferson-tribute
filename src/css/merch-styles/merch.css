@@ -1,10 +1,6 @@
 #merch{
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     background-image: url("/img/merch-imgs/background-merch.png");
-}
-
-#merch { /*borrable*/
-    border-style: groove;
-    border-color: red;
 }

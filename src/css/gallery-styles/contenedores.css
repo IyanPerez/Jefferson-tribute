@@ -1,12 +1,12 @@
 #contenedor-presentation{
-    
     background-color: rgba(101, 87, 87, 0.5);
     font-size: large;
     color: white;
     padding: 30px;
     border-color: white;
     border-style: groove;
-    margin: 0px 50px 0px 50px;
+    margin: 2%;
+    margin-top: 6%;
 }
 #contenedor-albums{
     

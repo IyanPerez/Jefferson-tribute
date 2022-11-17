@@ -1,22 +1,14 @@
 #main-container {
-    border-style: groove;
-    border-color: blue;
-    margin: 10px;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
-}
-#cartel{
-    border-style: groove;
-    border-color: brown;
-    margin: 50px;
-    padding: 5px;
-}
-#shopping-section{
-    border-style: groove;
-    border-color: green;
-    margin: 50px;
+    align-items: center;
+    justify-content: space-between;
 }
 #cartel-img{
-    width: 380px;
-    height: 580px;
+    margin-top: 15%;
+    height: 85vh;
+    border-radius: 80px;
+    border-style: groove;
+    border-color: white;
 }
