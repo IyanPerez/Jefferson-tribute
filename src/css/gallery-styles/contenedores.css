@@ -16,3 +16,13 @@
     align-items: center;
     padding: 13px;
 }
+#merch-text-container{
+    background-color: rgba(101, 87, 87, 0.5);
+    font-size: large;
+    color: white;
+    padding: 20px;
+    border-color: white;
+    border-style: groove;
+    margin: 2%;
+    margin-top: 6%;
+}

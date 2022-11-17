@@ -1,7 +1,6 @@
 .banner-photo{
-    width: 906px;
+    width: 100%;
     border-radius: 20px;
-    margin: 1px;
 }
 .banner{
     width: 80%;
