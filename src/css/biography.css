@@ -33,11 +33,11 @@
     margin: 1px;
 }
 .banner{
-    position: relative;
+    width: 80%;
+    position: static;
     margin-top: 3%;
 }
 .banner .slider{
-    width: 908px;
     height: 214px;
     display: flex;
     overflow: hidden;
