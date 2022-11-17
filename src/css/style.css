@@ -1,3 +1,3 @@
-@import url("/src/css/default-config.css");
-@import url("/src/css/header.css");
-@import url("/src/css/biography.css");
+@import "/src/css/default-config.css";
+@import "/src/css/header.css";
+@import "/src/css/biography.css";

@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-content: center;
     background-image: url("/img/hippie1.png");
 }
 .text-container{
@@ -21,5 +22,45 @@
     border-radius: 30px;
     border-color: white;
     border-style: groove;
+}
+
+
+
+.banner-photo{
+    width: 907px;
+    height: 214px;
+    border-radius: 20px;
+    margin: 1px;
+}
+.banner{
+    position: relative;
+    margin-top: 3%;
+}
+.banner .slider{
+    width: 908px;
+    height: 214px;
+    display: flex;
+    overflow: hidden;
+    scroll-behavior: smooth;
+}
+#back-button{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    cursor: pointer;
+    object-fit: cover;
+    left: 0;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+#front-button{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    cursor: pointer;
+    object-fit: cover;
+    right: 0;
+    top: 50%;
+    transform: translate(50%, -50%);
 }
 
