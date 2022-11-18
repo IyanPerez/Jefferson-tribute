@@ -4,11 +4,10 @@
     justify-content: center;
     align-content: center;
     background-image: url("/img/hippie1.png");
+    gap: 1%;
 }
 #group-photo{
-    margin: 2%;
-    /* width: 400px; */
-    height: 240px;
+    height: 200px;
     border-radius: 30px;
     border-color: white;
     border-style: groove;

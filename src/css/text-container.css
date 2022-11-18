@@ -1,8 +1,7 @@
 .text-container{
-    margin: 2%;
     width: 50%;
     background-color: rgba(101, 87, 87, 0.5);
-    font-size: large;
+    font-size: medium;
     color: white;
     padding: 30px;
     border-color: white;

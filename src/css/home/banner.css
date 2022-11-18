@@ -3,9 +3,8 @@
     border-radius: 20px;
 }
 .banner{
-    width: 80%;
+    width: 60%;
     position: static;
-    margin-top: 6%;
 }
 .banner .slider{
     display: flex;

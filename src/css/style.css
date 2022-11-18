@@ -12,3 +12,7 @@
 @import "/src/css/home/biography.css";
 @import "/src/css/home/banner.css";
 @import "/src/css/text-container.css";
+
+section{
+    height: 88vh;
+}
