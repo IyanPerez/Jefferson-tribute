@@ -7,11 +7,10 @@
 @import url("./footer-styles/footer.css");
 @import url("./merch-styles/containers.css");
 @import url("./merch-styles/etiquetas.css");
-@import url("./src/css/default-config.css");
 @import url("./header-styles/header.css");
-@import url("./src/css/home/biography.css");
-@import url("./src/css/home/banner.css");
-@import url("./src/css/text-container.css");
+@import url("./home/biography.css");
+@import url("./home/banner.css");
+@import url("./text-container.css");
 
 section{
     height: 88vh;
