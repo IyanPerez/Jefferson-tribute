@@ -7,8 +7,8 @@
 }
 #group-photo{
     margin: 2%;
-    width: 444px;
-    height: 350px;
+    /* width: 400px; */
+    height: 240px;
     border-radius: 30px;
     border-color: white;
     border-style: groove;

@@ -1,5 +1,9 @@
 footer{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-image: url("/img/header-background.jpg");
+}
+#logo-footer{
+    width: 55px;
+    float: right;
 }

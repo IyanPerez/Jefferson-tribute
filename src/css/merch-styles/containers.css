@@ -3,12 +3,13 @@
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
+    margin-bottom: 1%;
 }
 #cartel-img{
     margin-top: 15%;
-    height: 85vh;
     border-radius: 80px;
     border-style: groove;
     border-color: white;
+    width: 25vw;
 }
