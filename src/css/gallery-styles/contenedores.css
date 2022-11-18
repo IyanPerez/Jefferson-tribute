@@ -1,11 +1,14 @@
 #contenedor-presentation{
     background-color: rgba(101, 87, 87, 0.5);
-    font-size: large;
+    font-size: medium;
     color: white;
-    padding: 30px;
+    padding: 5px;
     border-color: white;
     border-style: groove;
-    margin-top: 13vh;
+    margin: 10px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
     
 }
 #contenedor-albums{
