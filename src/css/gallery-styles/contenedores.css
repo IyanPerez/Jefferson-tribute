@@ -9,13 +9,13 @@
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
-    
 }
 #contenedor-albums{
     display: flex;
     gap:30px;
     flex-direction: column;
     align-items: center;
+    
     
 }
 #merch-text-container{
