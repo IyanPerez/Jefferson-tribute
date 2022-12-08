@@ -1,16 +1,16 @@
-@import "./default-config.css";
-@import "./gallery-styles/gallery.css";
-@import "./gallery-styles/hover-effects.css";
-@import "./gallery-styles/contenedores.css";
-@import "./gallery-styles/etiquetas.css";
-@import "./merch-styles/merch.css";
-@import "./footer-styles/footer.css";
-@import "./merch-styles/containers.css";
-@import "./merch-styles/etiquetas.css";
-@import "./header-styles/header.css";
-@import "./home/biography.css";
-@import "./home/banner.css";
-@import "./text-container.css";
+@import "default-config.css";
+@import "text-container.css";
+@import "header-styles/header.css";
+@import "home/banner.css";
+@import "home/biography.css";
+@import "gallery-styles/gallery.css";
+@import "gallery-styles/hover-effects.css";
+@import "gallery-styles/contenedores.css";
+@import "gallery-styles/etiquetas.css";
+@import "merch-styles/merch.css";
+@import "merch-styles/containers.css";
+@import "merch-styles/etiquetas.css";
+@import "footer-styles/footer.css";
 
 section{
     height: 88vh;
