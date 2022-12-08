@@ -3,7 +3,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
-    background-image: url("/img/hippie1.png");
+    background-image: url("./img/hippie1.png");
     gap: 1%;
 }
 #group-photo{

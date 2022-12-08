@@ -2,5 +2,5 @@
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    background-image: url("/img/merch-imgs/background-merch.png");
+    background-image: url("./img/merch-imgs/background-merch.png");
 }
