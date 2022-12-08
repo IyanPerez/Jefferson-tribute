@@ -1,5 +1,5 @@
 #gallery{
     display: flex;
     flex-direction: column;
-    background-image: url("./img/gallery-background/fondo.png");
+    background-image: url(/img/gallery-background/fondo.png);
 }
